@@ -20,6 +20,7 @@ Aplicação de listagem de vendas, com a opção de filtrar determinados períod
 - H2 Database
 - Heroku
 - Twilio
+- Netlify
 
 ## :rocket: Rodar Projeto
 ```bash
