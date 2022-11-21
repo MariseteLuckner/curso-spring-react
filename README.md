@@ -4,7 +4,7 @@
 
 ## 📝 Descrição 
 
-Aplicação de listagem de vendas, com a opção de filtrar determinados períodos de vendas por data e mandar mensagens SMS de uma venda específica. 
+Aplicação de listagem de vendas, com a opção de filtrar determinados períodos de vendas por data e mandar mensagem(notificação) SMS de uma venda específica. 
 
 
 [🔗 Clique aqui para acessar o projeto](https://dsmeta-mari.netlify.app/)
